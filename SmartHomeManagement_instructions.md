@@ -90,7 +90,7 @@ SNS Notification Check: Verify that SNS notifications were sent by viewing Cloud
 Device Communication Testing: Subscribe to MQTT topics in AWS IoT Core and publish test messages to ensure that device updates trigger Lambda functions and generate corresponding logs.
 
 **Summary**
-By following these steps, the SmartHomeApp backend was built with a robust architecture for real-time device control, data storage, notification management, and monitoring. With the integration of AWS services like DynamoDB, Lambda, IoT Core, SNS, and CloudWatch, this solution provides a secure, scalable, and responsive foundation for smart home management.
+The SmartHomeApp backend was built with a robust architecture for real-time device control, data storage, notification management, and monitoring. With the integration of AWS services like DynamoDB, Lambda, IoT Core, SNS, and CloudWatch, this solution provides a secure, scalable, and responsive foundation for smart home management.
 
 **Project Achievements:**
 
